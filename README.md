@@ -7,10 +7,10 @@ Learning by doing - made tic-tac-toe game by ReactJS
 - yarn start
 - F5 in VSCode to debug
 
-### production
+### Deploy to github page
 
 - yarn build
+- yarn add --dev gh-pages
+- yarn deploy
 
-### Depoy to github page
-
-https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages
+- [Reference](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
